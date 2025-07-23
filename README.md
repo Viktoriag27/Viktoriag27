@@ -88,7 +88,7 @@ class Viktoria:
 ## 📂 Featured Projects
 
 [![F1 BCN Hotel Pricing](https://img.shields.io/badge/F1_BCN%20Hotel%20Prices-DiD%20%2B%20NLP-FF5733?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Viktoriag27/formula1-hotel-pricing-analysis)  
-<sub>**DiD + NLP** reveal how Formula 1 weekends send Barcelona hotel prices soaring.</sub>
+<sub>**DiD + NLP quantify the surge in Barcelona hotel rates triggered by F1 race weekends.</sub>
 
 [![UNGA SDG Text Mining](https://img.shields.io/badge/UNGA%20SDG-Text%20Mining-9B59B6?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/Viktoriag27/UNGA-SDG-TextMining)  
 <sub>TF‑IDF mining of UNGA speeches tracks Sustainable Development Goal discourse over decades.</sub>
