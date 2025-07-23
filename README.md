@@ -86,11 +86,15 @@ class Viktoria:
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ## 📂 Featured Projects
-[![F1 BCN Hotel Pricing](https://img.shields.io/badge/F1_BCN%20Hotel%20Prices-DiD%20%2B%20NLP-FF5733?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Viktoriag27/formula1-hotel-pricing-analysis)
 
-[![UNGA SDG Text Mining](https://img.shields.io/badge/UNGA%20SDG-Text%20Mining-9B59B6?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/Viktoriag27/UNGA-SDG-TextMining)
+[![F1 BCN Hotel Pricing](https://img.shields.io/badge/F1_BCN%20Hotel%20Prices-DiD%20%2B%20NLP-FF5733?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Viktoriag27/formula1-hotel-pricing-analysis)  
+<sub>**DiD + NLP** reveal how Formula 1 weekends send Barcelona hotel prices soaring.</sub>
 
-[![Toxicity Classification](https://img.shields.io/badge/Toxicity-BERT%20Bench-3B82F6?style=for-the-badge&logo=huggingface&logoColor=white)](https://github.com/Viktoriag27/nlp-toxicity-classification-analysis)
+[![UNGA SDG Text Mining](https://img.shields.io/badge/UNGA%20SDG-Text%20Mining-9B59B6?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/Viktoriag27/UNGA-SDG-TextMining)  
+<sub>TF‑IDF mining of UNGA speeches tracks Sustainable Development Goal discourse over decades.</sub>
+
+[![Toxicity Classification](https://img.shields.io/badge/Toxicity-BERT%20Bench-3B82F6?style=for-the-badge&logo=huggingface&logoColor=white)](https://github.com/Viktoriag27/nlp-toxicity-classification-analysis)  
+<sub>BERT vs. rule‑based baselines for online‑toxicity detection, with augmentation & model distillation.</sub>
 
 
 ## 🤝🚀  Open to Collabs & Projects!
