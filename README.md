@@ -5,6 +5,9 @@
  <a href="mailto:gaguavictoria@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+# 🎓  MSc in Data Science graduate (Barcelona School of Economics — jointly with UPF & UAB)
+#     Core coursework: Machine Learning · Econometrics · Applied Maths & Statistics · Causal Inference · NLP · Deep Learning · Time‑Series Analysis
+
 ```python
 class Viktoria:
     def __init__(self):
