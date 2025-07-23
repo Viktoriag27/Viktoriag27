@@ -6,7 +6,7 @@
 </p>
 
 ## 🎓  MSc in Data Science (Barcelona School of Economics — jointly with UPF & UAB)
-###     Main coursework: Machine Learning · Econometrics · Applied Maths & Statistics · Causal Inference · NLP · Deep Learning · Time‑Series Analysis
+### Main coursework: Machine Learning · Econometrics · Applied Maths & Statistics · Causal Inference · NLP · Deep Learning · Time‑Series Analysis
 
 ```python
 class Viktoria:
@@ -39,7 +39,7 @@ class Viktoria:
 
 ```
 
-## 🔭 What I’ve Been Working On
+## 🔭 Recent Work Experience
 
 - 🏦 TBI Bank (Consultant) — Built an interactive merchant‑KPIs analytics suite and an RFM‑based early‑warning system that re‑activated **30 % of dormant merchants** in 3 months. 
 
